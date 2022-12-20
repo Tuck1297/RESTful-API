@@ -155,7 +155,7 @@ export default defineComponent({
 
                 <div id="large-12 medium-12 small-12 cell">
                     <div id=content-header>
-                        <h4>Bios</h4>
+                        <h4>Meet the Team</h4>
                     </div>
                 </div>
                 <div class="flex">
@@ -169,25 +169,22 @@ export default defineComponent({
                         </div>
                     </div>
                 </div>
-
-
-
             </div>
         </div>
         <div class="grid-x">
             <div class="large-12 medium-12 small-12 cell">
                 <div id="large-12 medium-12 small-12 cell">
                     <div id=content-header>
-                        <h4>Video</h4>
+                        <!-- <h4>Video</h4> -->
                     </div>
                 </div>
                 <div class="flex">
 
 
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/Yn4ebxyAitY"
-                        title="YouTube video player" frameborder="0"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen></iframe>
+                    <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Yn4ebxyAitY" -->
+                        <!-- title="YouTube video player" frameborder="0" -->
+                        <!-- allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" -->
+                        <!-- allowfullscreen></iframe> -->
                 </div>
             </div>
         </div>
