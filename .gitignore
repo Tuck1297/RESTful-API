@@ -1,4 +1,3 @@
 #Ignore commiting all the node modules to the repository.
 /node_modules
-stpaul_crime.sqlite3
 /Dev St Paul Page/node_modules
